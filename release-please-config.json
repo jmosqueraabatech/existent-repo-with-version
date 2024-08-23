@@ -7,7 +7,7 @@
       "draft": false,
       "prerelease": false,
       "include-component-in-tag": true,
-      "initial-version": "2.28.0",
+      "initial-version": "2.28.2",
       "release-type": "node",
       "changelog-type": "github",
       "pull-request-title-pattern": "docs${scope}: release${component} ${version}",
