@@ -1,11 +1,8 @@
 {
-    "name": "@abacenters/domain-aba-node",
+    "name": "my_repo",
     "version": "2.28.3",
-    "description": "domain layer of notification system",
-    "author": "@aba-technologies",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {},
     "devDependencies": {}
 }
-  
