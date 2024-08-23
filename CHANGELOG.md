@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.29.0](https://github.com/jmosqueraabatech/existent-repo-with-version/compare/v2.28.3...v2.29.0) (2024-08-23)
+
+
+### Features
+
+* **test:** change app name ([843bcbc](https://github.com/jmosqueraabatech/existent-repo-with-version/commit/843bcbc52406d9dc9fca5ae330973992cfc7dec6))
+
+
+### Bug Fixes
+
+* point to correct file ([c83ab54](https://github.com/jmosqueraabatech/existent-repo-with-version/commit/c83ab5479b26b022f6fdfbed2816e04e085e71b1))
+* point to correct filew ([9790f2d](https://github.com/jmosqueraabatech/existent-repo-with-version/commit/9790f2d84b621daf0f4ebd78ed8792aded668dca))
+* **test:** correct files ([06da267](https://github.com/jmosqueraabatech/existent-repo-with-version/commit/06da267c8dd45d7c479644e03e25e4c62d1994e9))
+
 ## [2.28.3](https://github.com/jmosqueraabatech/existent-repo-with-version/compare/2.28.2...v2.28.3) (2024-08-23)
 
 
