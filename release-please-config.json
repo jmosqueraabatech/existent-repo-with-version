@@ -8,7 +8,7 @@
       "prerelease": false,
       "include-component-in-tag": true,
       "initial-version": "2.28.2",
-      "release-type": "node",
+      "release-type": "ruby",
       "changelog-type": "github",
       "pull-request-title-pattern": "docs${scope}: release${component} ${version}",
       "pull-request-header": "docs${scope}: release${component} ${version}"
