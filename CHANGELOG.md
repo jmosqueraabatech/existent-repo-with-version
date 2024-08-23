@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.29.1 (2024-08-23)
+
+**Full Changelog**: https://github.com/jmosqueraabatech/existent-repo-with-version/compare/v2.29.0...v2.29.1
+
 ## [2.29.0](https://github.com/jmosqueraabatech/existent-repo-with-version/compare/v2.28.3...v2.29.0) (2024-08-23)
 
 
