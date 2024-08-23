@@ -8,11 +8,8 @@
       "prerelease": false,
       "include-component-in-tag": true,
       "release-type": "node",
-      "changelog-type": "github",
-      "pull-request-title-pattern": "docs${scope}: release${component} ${version}",
-      "pull-request-header": "docs${scope}: release${component} ${version}"
+      "changelog-type": "github"
     }
   },
-  "last-release-sha": "a1e7e1a4e77452aa36c8c131d0dbea429e79e957",
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
