@@ -1,0 +1,18 @@
+{
+  "packages": {
+    ".": {
+      "changelog-path": "CHANGELOG.md",
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
+      "draft": false,
+      "prerelease": false,
+      "include-component-in-tag": true,
+      "initial-version": "2.27.1",
+      "release-type": "node",
+      "changelog-type": "github",
+      "pull-request-title-pattern": "docs${scope}: release${component} ${version}",
+      "pull-request-header": "docs${scope}: release${component} ${version}"
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}

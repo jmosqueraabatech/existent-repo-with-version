@@ -1,0 +1,28 @@
+on:
+  push:
+    branches:
+      - main
+  
+name: tag-and-release-to-npm
+  
+permissions:
+  contents: write
+  pull-requests: write
+  packages: write
+  
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      release_created: ${{ steps.release_please.outputs.release_created }}
+  
+    steps:
+      - name: Release please
+        uses: googleapis/release-please-action@v4
+        id: release_please
+        with:
+          token: ${{ secrets.PRIV_TOKEN }}
+          release-type: node
+          config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json
