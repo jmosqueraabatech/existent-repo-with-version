@@ -23,3 +23,4 @@ jobs:
         id: release_please
         with:
           token: ${{ secrets.PRIV_TOKEN }}
+          release-type: node
