@@ -1,0 +1,13 @@
+{
+    "name": "@abacenters/domain-aba-node",
+    "version": "2.6.0",
+    "description": "domain layer of notification system",
+    "author": "@aba-technologies",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+    },
+    "devDependencies": {
+    }
+  }
+  
