@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.29.1](https://github.com/jmosqueraabatech/existent-repo-with-version/compare/v2.29.0...v2.29.1) (2024-08-23)
+
+
+### Bug Fixes
+
+* point to correct fileww ([d59d570](https://github.com/jmosqueraabatech/existent-repo-with-version/commit/d59d57046ab1a7ac65f76c19426d8a3c73dbe71b))
+* point to correct filewwwww ([28c57b2](https://github.com/jmosqueraabatech/existent-repo-with-version/commit/28c57b2a2808dfaa76f42e26569b258cba1edcf5))
+* point to correct filewwwwwwww ([61ba2cb](https://github.com/jmosqueraabatech/existent-repo-with-version/commit/61ba2cbf5a4abc523be8511756b8a6e8921f9428))
+
 ## [2.29.0](https://github.com/jmosqueraabatech/existent-repo-with-version/compare/v2.28.3...v2.29.0) (2024-08-23)
 
 
