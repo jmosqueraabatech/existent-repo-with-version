@@ -8,7 +8,7 @@
       "prerelease": false,
       "include-component-in-tag": false,
       "release-type": "node",
-      "changelog-type": "github",
+      "changelog-type": "default",
       "pull-request-title-pattern": "docs${scope}: Release ${component} ${version}"
     }
   },
